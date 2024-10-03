@@ -1,0 +1,39 @@
+body {
+
+background-image: url("https://clipart-library.com/img1/1395650.gif");
+
+
+}
+
+
+.verde {
+
+background-color: greenyellow ;
+width: 300px;
+height: 50px;
+display: block;
+
+
+
+}
+
+.amarelo {
+
+background-color: yellow;
+width: 300px;
+height: 50px;
+display: block;
+
+}
+
+.bolinha{
+    background-color: transparent;
+    background-image: url("https://64.media.tumblr.com/3599ccb6b2d743d07e1bd2f58fc75206/tumblr_oc16918mcX1vx777ao1_540.gif");
+    background-size: contain;
+    width: 25px;
+    height: 25px;
+    display: block;
+    float: left;
+    border-radius: 50%;
+    margin: 5px;
+}
